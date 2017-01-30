@@ -1,0 +1,21 @@
+{
+  "name": "electron-typescript-vscode",
+  "version": "1.0.0",
+  "description": "Boilerplate for Electron applications written in TypeScript with VSCode",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "tsc": "tsc"
+  },
+  "repository": "https://github.com/RomainThery/electron-typescript-vscode",
+  "keywords": [
+    "Electron",
+    "TypeScript"
+  ],
+  "author": "Romain Théry",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/electron": "^1.4.31",
+    "electron": "^1.4.1"
+  }
+}

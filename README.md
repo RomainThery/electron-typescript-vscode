@@ -1,2 +1,2 @@
 # electron-typescript-vscode
-Boilerplate for Electron application written in TypeScript with VSCode
+Boilerplate for Electron applications written in TypeScript with VSCode
